@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **lcheng89/lcheng89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Leqian Cheng
+
+## About Me
+
+- 🎓 I'm currently a senior majoring in Computer Science at UW-Madison.
+- 🚀 
+
+## Projects & Contributions
+
+### [SAIL](https://github.com/ethanchang235/spaced-rep-study-assistant)
+
+- Developed the prototype of multimodal interactive study assistant.
+- Implemented core algorithms including spaced repetition and content prediction.
+
+###  A304b
+- CCA
+- tlCCA
+- OACCA
+
+## Skills & Interests
+
+- Machine Learning / AI
+- Data Structures & Algorithms
+- UX / UI Design
+
+## Contact
+
+- 📫 Email: lcheng89@wisc.edu
