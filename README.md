@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Projects & Contributions
 
-### [SAIL](https://github.com/ethanchang235/spaced-rep-study-assistant)
+### [SAIL](https://github.com/lcheng89/spaced-rep-study-assistant)
 
 - Developed the prototype of multimodal interactive study assistant.
 - Implemented core algorithms including spaced repetition and content prediction.
