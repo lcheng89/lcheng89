@@ -17,26 +17,29 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🎓 I'm currently a senior majoring in Computer Science at UW-Madison.
-- 🚀 
+- 🎓 Currently a senior majoring in Computer Science at UW-Madison.
+- 🌱 Interested in AI/Robotics/Comp. bio & bioinformatics
+- 🧲 Seeking MS/Ph.D.
 
-## Projects & Contributions
+## Research Experience
 
 ### [SAIL](https://github.com/lcheng89/spaced-rep-study-assistant)
 
 - Developed the prototype of multimodal interactive study assistant.
 - Implemented core algorithms including spaced repetition and content prediction.
 
-###  A304b
+###  BCI/EEG Decoding Research (Private)
 - CCA
 - tlCCA
 - OACCA
 
-## Skills & Interests
+## Course Project
 
-- Machine Learning / AI
-- Data Structures & Algorithms
-- UX / UI Design
+### [AI Intro (Python)](link)
+### [Optimization (GAMSPy)](link)
+### [Big Data (Docker/Python)](link)
+### Operating System Intro (C) \[tbc.]
+### Algorithm \[tbc.]
 
 ## Contact
 
